@@ -82,7 +82,7 @@ export function TestimonialSection() {
                          
                             className="mb-4 !text-2xl text-gray-700 dark:text-white lg:!text-2xl max-w-4xl !leading-snug mx-auto font-bold"
                         >
-                            &quot;Los chicos de NxSoft hicieron realidad mi idea de tener un miniMarket autonomo&apos; Programaron un sistema complejo y una aplicacion mobile para android e ios que permite comprar y validar todo desde ahi, 100% recomendables&quot;
+                            &quot;Los chicos de NxSoft hicieron realidad mi idea de tener una web para mostrar mi minimarket autonomo&apos; Programaron un sitio web donde pueden ver los lugares disponibles desde un mapa y contacarse con nosotros desde ahi, 100% recomendables&quot;
                         </Typography>
                     </CardHeader>
                     <CardBody className="items-center mx-auto py-2">
