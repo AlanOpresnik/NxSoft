@@ -92,7 +92,7 @@ export function TestimonialSection() {
                             alt="spotify"
                         />
                         <Typography variant="h6" color="blue-gray">
-                            Emma Roberts
+                        Eduardo Sánchez
                         </Typography>
                         <Typography
                             variant="paragraph"
